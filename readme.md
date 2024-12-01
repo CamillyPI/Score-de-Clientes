@@ -1,3 +1,3 @@
 # Score de crédito
 
-Projeto para calcular o score de credito dos clientes usando IA e fazer analises com base nos resultados.
+Projeto voltado para a criação de uma inteligência artificial com o intuito de calcular o score de credito dos clientes de um banco e fazer analises futuras.
